@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
+site_theme               : "air" # Currently available options are "default", "air"
 title                    : "Chaowei Zhang / Academic Homepage"
 title_separator          : "-"
 name                     : &name "Chaowei Zhang"
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Chaowei(超伟) Zhang(张), Ph.D"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : # "Short biography for the left-hand sidebar"
+  location         : "Yangzhou, China"
+  employer         : "Yangzhou University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "cwzhang@yzu.edu.cn" 
 
   # Academic websites
   academia         : # URL
