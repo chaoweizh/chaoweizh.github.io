@@ -25,7 +25,7 @@ author:
   avatar           : "一寸照.jpg"
   name             : "Dr. Chaowei Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor in the Department of Information Engineering at Yangzhou University"
+  bio              : #"Assistant Professor in the Department of Information Engineering at Yangzhou University"
   location         : "Yangzhou, China"
   employer         : "Yangzhou University"
   uri              : # URL
